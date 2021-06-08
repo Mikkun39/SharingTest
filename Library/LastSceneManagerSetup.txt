@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Wizard - 2D Character/Demo/Wizard Demo 1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

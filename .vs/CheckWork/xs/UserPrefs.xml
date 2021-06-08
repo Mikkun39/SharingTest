@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.ide.visualstudio@2.0.5/Editor/VisualStudioEditor.cs">
+    <Files>
+      <File FileName="Assets/PlayerScript.cs" Line="12" Column="19" />
+      <File FileName="Assets/2D SpritePack/Demo/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.ide.visualstudio@2.0.5/Editor/VisualStudioEditor.cs" Line="194" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="de03c8c9-7633-4ac1-8700-63ad7f643940" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
